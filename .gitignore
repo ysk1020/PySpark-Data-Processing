@@ -222,4 +222,4 @@ __pycache__/
 *.pyc
 spark-warehouse/
 checkpoints/
-data/raw/
+data/
